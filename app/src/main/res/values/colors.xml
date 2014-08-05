@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_normal">#ff3f3f3f</color>
+    <color name="text_light">#ababab</color>
+    <color name="text_super_light">#c0c0c0</color>
+    
+    <color name="blue_light">#48a5cc</color>
+    <color name="blue_dark">#00aeef</color>
+    <color name="stroke">#77d4f6</color>
+
+    <color name="light_gray">#ffa0a0a0</color>
+
+    <drawable name="blue_bg">#00aeef</drawable>
+
+</resources>
